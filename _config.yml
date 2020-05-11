@@ -12,7 +12,7 @@ site-twitter: #if your site has a twitter account, enter it here
 author: Saurya Velagapudi # add your name
 author-img: saurya.jpg # add your photo
 about-author: I used to write software at Google, did my own startup for a while. I sometimes write science fiction on Medium and here. # add description
-social-twitter: @saurya # add your Twitter handle
+social-twitter: saurya # add your Twitter handle
 social-facebook: saurya # add your Facebook handle
 social-github: saurya # add your Github handle
 social-linkedin: saurya-velagapudi-74a8a621 # add your Linkedin handle

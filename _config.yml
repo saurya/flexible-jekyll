@@ -11,7 +11,7 @@ site-twitter: #if your site has a twitter account, enter it here
 # Author Settings
 author: Saurya Velagapudi # add your name
 author-img: saurya.jpg # add your photo
-about-author: I used to write software at Google, did my own startup for a while. I sometimes write science fiction on [Medium](medium.com/@sauryasimha) and here. # add description
+about-author: I used to write software at Google, did my own startup for a while. I sometimes write science fiction on <a href="//www.medium.com/@sauryasimha">Medium</a> and here. # add description
 social-twitter: saurya # add your Twitter handle
 social-facebook: saurya # add your Facebook handle
 social-github: saurya # add your Github handle

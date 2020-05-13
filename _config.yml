@@ -18,6 +18,8 @@ social-email: saurya@gmail.com # add your Email address
 # Disqus
 discus-identifier: sauryas-blog # add your discus identifier
 
+future: true
+
 # Tracker
 analytics: # Google Analytics
 

@@ -1,6 +1,5 @@
 title: Courageous Lion Wood Apple Orchard 
-description: > # this means to ignore newlines until "baseurl:"
-    I write a lot of words, some of the structured ones show up here.
+description: I write a lot of words, some of the structured ones show up here.
 permalink: ':title/'
 baseurl: "/blog" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com

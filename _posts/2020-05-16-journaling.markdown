@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Journaling
-date: 2020-05-l6 08:00:20 +0800
+date: 2020-05-16 08:00:20 +0800
 description: How I've practiced journaling for the past few years.
 img: journal.jpg # Add image post (optional)
 fig-caption: # Add figcaption (optional)

@@ -24,6 +24,7 @@ That said, pretty much everything else about the game is pretty rockin - I love 
 The romances between Geralt and most of the others feel hackneyed but his relationship with Yennefer makes me want to melt sometimes. The Genie's wish quest with Yen was very, very gratifying and I will not reveal more than that for now.
 
 The game puts you in moral quandaries often, and choices seem to have consequences that you don't realize until a second playthrough. You do always seem to land on your feet, though I have failed some quests. There isn't a moment in the game where you get a message like this:
+
 ![A great way to say 'ya fucked up' but give the player a choice to continue.](https://pics.me.me/with-this-characters-death-the-thread-of-prophecy-is-severed-23233159.png)
 
 The world is visually stunning, the side quests and forest-wandering can satisfy me for hundreds of hours, if not more, and I have barely scratched the surface of what's possible with the leveling system and combat stuff. RPGs are peak nerd in a lot of ways, and computer RPGs have always suffered from a lack of imagination. There's a sense of wonder that is missing when playing computer RPGs that I somehow retain when reading fantasy novels or playing Tabletop. But it seems like with modern technology you can truly bring to life a fascinating world that doesn't remind you every ten seconds that it is a game.

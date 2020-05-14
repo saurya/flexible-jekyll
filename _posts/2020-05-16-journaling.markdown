@@ -8,7 +8,7 @@ fig-caption: # Add figcaption (optional)
 tags: [Writing, Journaling, Emotions, Health, Mental Health, Wellbeing]
 ---
 
-I really, really love my journal. It started at the recommendation of my good friend [Sumita](sumita.co) back in August of 2018. It starts with three questions ripped from the [School of Life's Philosophical Meditation](https://www.theschooloflife.com/thebookoflife/philosophical-meditation-2/). Opinions on de Botton aside (I have some vague sense in the back of my mind that he is either weird or problematic and I can't remember which, maybe both), the practice was small enough and compatible enough with what was going on in my life at the time that I just started doing it every day.
+I really, really love my journal. It started at the recommendation of my good friend [Sumita](//sumita.co) back in August of 2018. It starts with three questions ripped from the [School of Life's Philosophical Meditation](https://www.theschooloflife.com/thebookoflife/philosophical-meditation-2/). Opinions on de Botton aside (I have some vague sense in the back of my mind that he is either weird or problematic and I can't remember which, maybe both), the practice was small enough and compatible enough with what was going on in my life at the time that I just started doing it every day.
 
 I spent about 6 months just rubbing away at the questions every morning:
 What am I currently anxious about?

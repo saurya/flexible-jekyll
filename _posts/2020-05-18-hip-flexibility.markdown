@@ -15,7 +15,7 @@ This started my journey down a lifelong road of improving my relationship with m
 I now try to find a nice variety of ways to comfortably sit for more than 20 minutes.
 
 On some days, I can sit Japanese style for nearly half an hour before feeling like my legs are dying.
-![A woman sitting Japanese style on the floor][japanese-sit.jpg]
+![A woman sitting Japanese style on the floor](japanese-sit.jpg)
 
 This has the added benefit of making swimming much easier - ankle flexibility is an important part of a good kick in swimming - and I cannot wait to jump back in the sea or the pool once this COVID situation is over. My 30s will probably involve me being a much more aquatic creature.
 

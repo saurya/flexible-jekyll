@@ -3,7 +3,7 @@ layout: post
 title: Tamil in Malaya/Singapore
 date: 2020-05-25 08:00:20 +0800
 description: More language nerd shit
-img: tamil-singapore.jpg # Add image post (optional)
+img: bahaya-jangan.jpg # Add image post (optional)
 fig-caption: # Add figcaption (optional)
 tags: [Languages, Tamil, South India, Singapore, Malaysia, Malay, Bahasa]
 ---

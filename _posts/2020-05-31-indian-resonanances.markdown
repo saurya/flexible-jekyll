@@ -15,12 +15,16 @@ This is an oldie - a British song based on a Russian song.
 
 The guitar at the beginning of the [James Bond Theme song](https://en.wikipedia.org/wiki/James_Bond_Theme#Authorship_and_origin) was originally composed for an Indian setting and shares the same musical raga as....Britney Spears' [Toxic](https://youtu.be/cj6CDicY3NM).
 
-Lest you think this borrowing from India is strictly the domain of white music - my sister remembered this very [addictive song](https://www.youtube.com/watch?v=Bnc7Bz57CME), which has an intro and fade in that slaps. And of course who could forget will.i.am's [version of Urvasi]((https://www.youtube.com/watch?v=JuM7hObGjWI). The [original](https://www.youtube.com/watch?v=5vkRRYMlmuo) is a childhood favorite and also _fucking slaps_. Prabhudeva is a fantastic dancer and I've heard the song in Tamil, Telugu and Hindi so many times I get the lyrics all mixed up all the time.
+Lest you think this borrowing from India is strictly the domain of white music - my sister remembered this very [addictive song](https://www.youtube.com/watch?v=Bnc7Bz57CME), which has an intro and fade in that slaps. And of course who could forget will.i.am's [version of Urvasi](https://www.youtube.com/watch?v=JuM7hObGjWI). The [original](https://www.youtube.com/watch?v=5vkRRYMlmuo) is a childhood favorite and also _fucking slaps_. Prabhudeva is a fantastic dancer and I've heard the song in Tamil, Telugu and Hindi so many times I get the lyrics all mixed up all the time.
 
 Chitrahar mein bijli udd gaye (Hindi, _the cinema hall loses electricity_)
+
 Take it easy policy
+
 Baga chadivi fail aipothe (Telugu, _study hard and you still fail_)
+
 Take it easy policy
+
 Valukka thalaiyan thirupathi pona (Tamil, _you go to Tirupati with a bald head_)
 
 Tirupati is a pilgrimage site in Andhra where folks typically go to get their hair shorn off.

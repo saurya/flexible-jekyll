@@ -3,7 +3,7 @@ layout: post
 title: With Apologies to Dr. King
 date: 2020-05-29 08:00:20 +0800
 description: History is fine bald, it doesn't need a Whig
-img: ourobouros.jpg # Add image post (optional)
+img: ourobouros.jpeg # Add image post (optional)
 fig-caption: # Add figcaption (optional)
 tags: [Purpose, Civilization, Progress, Tech tree]
 ---

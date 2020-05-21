@@ -1,0 +1,19 @@
+---
+layout: post
+title: TikTok isn't the next YouTube
+date: 2020-06-03 08:00:20 +0800
+description: Video apps are hard to build
+img: # Add image post (optional)
+fig-caption: # Add figcaption (optional)
+tags: [Video, TikTok, YouTube, Peering, Networks, Cost]
+---
+
+It's hard to build video apps, especially when your users decide to upload 10 hour long repeats of the [same 1.5 second clip](https://www.youtube.com/watch?v=3DkqMjfqqPc). Storage costs might be going down, but bandwidth and serving is a real bottleneck, and you're trapped in a bit of an arms race with your users as you expand capacity. Yes, your users are your worst denial-of-service attack. But a few things work to your advantage. Videos tend to go viral within specific geos - The Phillippines will have a different set of viral videos than Indonesia, for example. Most users who come to your service will be looking for the same videos, in fact, a single-digit percentage of the overall video corpus is accessed more than a few times. The distribution is crazy [Zipfian](https://en.wikipedia.org/wiki/Zipf%27s_law).
+
+But the costs of video upload, download, processing and storage are truly astronomical. If you get through all of those, the ISPs will certainly start breathing down your neck, so your best bet is to do what Google, Amazon, Netflix and all the CDNs did - get yourself a [peering agreement](https://en.wikipedia.org/wiki/Peering#Peering_agreement). Once you have a peering agreement with most of the world's ISPs, you have to build a cache that will store the most popular videos in your [edge network](https://peering.google.com/#/).
+
+TikTok did something very clever here - templatized videos (easier for compression - you can take the audio track out), mobile-only, short videos that are heavy on the trending. They've reduced the size and scope of the technical problem with some product hacks. The user experience works really well - you never notice any jitter to load the next video on the app - but it is a far cry from being able to search for specific content. It is a browsy app - meant to suck you in and get massive engagement via visual candy - smooth transitions, well-shot videos, short entertaining content. That's not to say that what they're doing isn't incredibly hard still, but it is a different problem altogether than the one that Google/YouTube is trying to solve.
+
+Personally, I don't see a world where TikTok ever takes over YouTube in terms of capability. In terms of revenue, that's entirely possible. I know certain things about YouTube that are probably best left unsaid without checking the exact terms of my NDA with Google, but I doubt YouTube is very worried about TikTok in the near or long-term, there are lots of other issues for them to face.
+
+

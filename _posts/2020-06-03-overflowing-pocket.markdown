@@ -3,7 +3,7 @@ layout: post
 title: Overflowing Pocket
 date: 2020-06-03 08:00:20 +0800
 description: I'm an article hoarder, I get overwhelmed.
-img: # Add image post (optional)
+img: compost.jpg # Add image post (optional)
 fig-caption: # Add figcaption (optional)
 tags: [Article, Pocket, Information Overload, Waldenponding]
 ---
@@ -16,4 +16,4 @@ Anything that takes more than a few minutes to consume on my Pocket is put off i
 
 Part of it though is also the sheer overwhelm of information. There are pieces of the world that I don't want to lose and so I hide them away in Pocket and wait to one day be completely isolated from the seething mass of *Content* that the internet has become so I can consume in peace. My information diet is for a bulk, when maybe I should be cutting a bit more instead. Filtering out large swaths of information that are stored in my mind and are fed to me regularly that don't serve me very well - Simpsons quotes for example (jk, I will never let those go).
 
-I've started to spend a lot more time pruning what I read. I have things like Pocket, but also my own writing, and I now have a folder called 'Compost' - which isn't garbage. It is stuff that has some interesting elements that need to be purified recombined with the right amount of sunlight, but I don't have an idea yet on how to do that. I let compost sit for some time and rotate through it occasionally, and pick out one or two elements to write about. The important bit is not to stress myself out about the size of the compost - it's not a todo list. It is a heap of stuff that sometimes ripens to the point where it is usable. You just can't [Pocket-mulch](https://frinkiac.com/caption/S12E04/523815).
+I've started to spend a lot more time pruning what I read. I have things like Pocket, but also my own writing, and I now have a folder called 'Compost' - which isn't garbage. It is stuff that has some interesting elements that need to be purified and recombined with the right amount of sunlight, but I don't have an idea yet on how to do that. I let compost sit for some time and rotate through it occasionally. I pick out one or two elements to write about. The important bit is not to stress myself out about the size of the compost - it's not a todo list. It is a heap of stuff that sometimes ripens to the point where it is usable. You just can't [Pocket-mulch](https://frinkiac.com/caption/S12E04/523815).

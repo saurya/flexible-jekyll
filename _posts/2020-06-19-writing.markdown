@@ -1,0 +1,17 @@
+---
+layout: post
+title: Knowledge Worker Mechanics: Writing
+date: 2020-06-18 08:00:20 +0800
+description: What basic skills do knowledge workers need?
+img: # Add image post (optional)
+fig-caption: 
+tags: [Writing, Knowledge Worker, Primitives]
+---
+
+I don't know how many words I read or write in a day, but I know it is a _lot_. If I have to function in any capacity as a knowledge worker, my ability to read, process and output large amounts of text is very important. I'd go so far as to say reading, summarizing and writing are the three most important mechanics for knowledge workers. In the words of Yuval Noah Harari - the modern order depends on all of us sending email to each other. Communication is at the core of any knowledge worker job - including software engineering. If you want to get better at all three mechanics, you should journal.
+
+The first part of improving writing is capacity - do I have the ability to produce 5000 words a day? A single email might be ~50 words. During the course of a work day at Google, I have easily written 50+ messages. The writing isn't the most time-consuming part, but getting better at letting words flow would make it much easier for me to function in such a role. My goal is to be able to write 5000 words a day without breaking a sweat. Writing in a journal helps me get there - I start off the day now writing ~300 words.
+
+The next bit is expression - is the message of my writing clear, easy to understand for the cognitive context of the other person? Practicing this with yourself is fairly easy - go back and read your journal entries. Is it clear what you were struggling with? Is it too wordy? Is there enough context?
+
+Composting is incredibly important for being able to write effectively. If you ever watch the same rappers freestyle in different competitions you'll notice something - they have favorite rhymes and rhythms that they lean on. Writing for yourself is a great way to build up a storehouse of useful phrases and ideas that you can then use in professional writing. Journaling helps me do this as well. 

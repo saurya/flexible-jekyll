@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Knowledge Worker Mechanics: Writing
+title: Knowledge Worker Mechanics - Writing
 date: 2020-06-18 08:00:20 +0800
 description: What basic skills do knowledge workers need?
 img: # Add image post (optional)

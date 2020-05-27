@@ -1,0 +1,21 @@
+---
+layout: post
+title: I love rice
+date: 2020-06-21 08:00:20 +0800
+description: Don't come for my rice
+img: # Add image post (optional)
+fig-caption: 
+tags: [Rice, White Rice, Red Rice, Brown Rice, Wild Rice, Beriberi, WTO]
+---
+
+I think about rice a lot. As I'm eating it, cooking it, smelling it, drinking a tea [made with it](https://en.wikipedia.org/wiki/Genmaicha). Smell is powerfully evocative and the smell of rice cooking makes me feel very safe and warm. White rice, especially steaming hot, served on a steel high-rimmed plate is a very powerful gut-punch of comfort for me.
+
+My family eschewed white rice at some point and began to eat brown rice, for health reasons, which while understandable made me sad. Brown rice didn't cook the same way, chew, smell, nothing was familiar enough to white rice. I wanted white rice even if it ruined my nutrition, just like the [Japanese sailors trying to signal class status all those years ago](https://medium.com/war-is-boring/eating-too-much-rice-almost-sank-the-japanese-navy-f985772c81a6).
+
+I recently started eating more red rice - the [Thai variety](https://en.wikipedia.org/wiki/Red_Cargo_rice) mushes up a bit too easily and the [Kerala variety](https://en.wikipedia.org/wiki/Matta_rice) stays a bit too [birusu](https://en.wiktionary.org/wiki/%E0%B0%AC%E0%B0%BF%E0%B0%B0%E0%B1%81%E0%B0%B8%E0%B1%81)/al dente unless you soak it first. I always forget to soak it. Nevertheless, it's actually better than the average white rice, and as a treat, I sometimes add 1 part basmati for 4 parts red.
+
+Basmati rice is wonderfully fragrant and I sometimes want to cook it just for the pleasure of the scent. If there is a flower out there that smells like cooked basmati, I will gladly plant a garden full of them.
+
+Basmati is also a great example of how contentious rice can be. When Texas farm companies began to grow varieties of basmati, they also tried to patent basmati rice - and the USPTO granted it to them. India and Pakistan sought to protect this trademark in the WTO, which often rules on [rice-related decisions](https://www.npr.org/sections/money/2011/11/04/142016962/the-friday-podcast-how-fear-turned-a-surplus-into-scarcity). This means basmati grown in the US cannot be called that - it has to be called [Texmati](https://en.wikipedia.org/wiki/RiceTec#Basmati_patent_controversy). The patenting of basmati rice seeds by an American corporation is also a stark reminder of the power of US law far beyond its borders. India's patent system allowed for the eradication of major diseases across the world, turning the country into the world's pharmacy thanks to a focus on _process_ patents rather than _product_ patents. Chemists were able to synthesize expensive lifesaving drugs using new processes and sell them in the developing world where American pharma companies wouldn't venture. This was unfortunately [reversed](https://www.nytimes.com/2005/03/24/business/worldbusiness/india-adopts-patent-law-covering-pharmaceuticals.html).
+
+I sympathize deeply with talks about cultural appropriation - but I feel they're often aimed at the wrong people. Restaurants stealing recipes from villages in the developing world is certainly douchey. Corporations using the power of American empire to rob a subcontinent of the shared intellectual heritage of rice cultivation? That's another level entirely.

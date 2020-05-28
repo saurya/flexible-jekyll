@@ -1,19 +1,18 @@
 ---
 layout: post
-title: Demographic In-Group Preference
+title: I am in love with Qurat-ul-ain Baloch
 date: 2020-06-25 08:00:20 +0800
-description: I read some papers
-img: olivia.jpg # Add image post (optional)
+description: She's an amazing singer
+img: .jpg # Add image post (optional)
 fig-caption: # Add figcaption (optional)
-tags: [Olivia, Papers, Ingroup, Outgroup]
+tags: [Quratulain Baloch, Coke Studio, Pakistan, Saraiki, Punjabi, Music, Qawwali]
 ---
 
-[Olivia's](//oliviachi.com) job market paper [A Classroom Observer Like Me](https://www.dropbox.com/s/vke9l6mtl5hmqqk/Chi%20JMP%20201910.pdf?dl=0) shows that if a teacher's rater is the same demographic as the teacher, they tend to give higher ratings. Classic in-group bias that shows we should take ratings of teachers with a grain of salt.
+Qurat-ul-ain's biggest draw for me is her rich voice. There's something of substance, like the husk of wheat or bark of a tree in the way she lets her energy flow.
 
-[My cousin Phanish's](https://www.insead.edu/faculty-research/faculty/phanish-puranam) friend and former student once came to a barbecue Phanish was hosting - we got to talking and Phanish mentioned that [Reddi](https://www.smu.edu.sg/faculty/profile/9503/Reddi-KOTHA) worked on a paper predicting the success of companies based on the [kinship ties of the founding team](https://ink.library.smu.edu.sg/lkcsb_research/6497/).
+Umair Jaswal tries to steal the spotlight in every Coke Studio song he shows up in, but QB so effortlessly steals all the breath in the room with her soulful rendering of the traditional Saraiki [Sammi Meri Waar](https://www.youtube.com/watch?v=KHLNSxe5Y8A). Seriously, Umair looks like he's having the time of his life up there singing, which is great, but totally not in keeping with the tone of the song! QB meanwhile nails the tone so...just. Ugh.
 
-These two papers seem like they're covering a similar topic - it's not just who you know, but who you are, and how close you are to the people around you that determines your success in an organization. The talented [Nicky Case](https://ncase.me/) made a fantastic visualization and playable simulation series around this idea called [the Parable of the Polygons](https://ncase.me/polygons/).
+She has singles as well - [Bewafaiyaan](https://www.youtube.com/watch?v=5kY5tyrdMh8) has an almost Spanish classical intro which is like catnip for me. Her voice again is the real selling point - thicc, like undiluted Vietnamese coffee.
 
-In-group preference is predictable and somewhat baked into us, but so is the desire for novelty. Some research has been done into the [power of diverse teams](https://hbr.org/2016/11/why-diverse-teams-are-smarter) - specifically that teams which bond over facts, and not some social identity, tend to produce more rational results.
+Lest you think she only has a morose register - perish the thought. Hear her voice as she sings about how she makes an excuse of bringing roti to see her beloved [colourful turban man](https://youtu.be/xhgt47nvZUQ?t=296).
 
-What I love most about research like this is it reveals and validates 

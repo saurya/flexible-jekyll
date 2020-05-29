@@ -1,0 +1,11 @@
+---
+layout: post
+title: Next Billion Users
+date: 2020-07-16 08:00:20 +0800
+description: 
+img: .jpg # Add image post (optional)
+fig-caption: # Add figcaption (optional)
+tags: []
+---
+
+Parable of the British in Singapore and how they lost the island because they thought Malaya was all forest.

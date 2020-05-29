@@ -1,0 +1,14 @@
+---
+layout: post
+title: Importance of ecosystem
+date: 2020-07-11 08:00:20 +0800
+description: 
+img: .jpg # Add image post (optional)
+fig-caption: # Add figcaption (optional)
+tags: []
+---
+
+We gorge ourselves on info the way we did food.
+Of course it could be that in our environment of evolutionary adaptedness, ideas were as scarce as food, and now in the world of phones we gorge ourselves on ideas, growing fat and sluggish in the brain.
+
+We want more and more processed ideas and we might lose the ability to mill and dehusk information ourselves. Something processed feels very good and we just eat that instead.

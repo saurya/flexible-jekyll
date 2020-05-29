@@ -1,7 +1,7 @@
 ---
 layout: post
 title: I am in love with Qurat-ul-ain Baloch
-date: 2020-06-25 08:00:20 +0800
+date: 2020-06-26 08:00:20 +0800
 description: She's an amazing singer
 img: .jpg # Add image post (optional)
 fig-caption: # Add figcaption (optional)

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Mechanics, Tactics, Strategy, Philosophy
-date: 2020-06-15 08:00:20 +0800
+date: 2020-06-16 08:00:20 +0800
 description: Climbing the ladder of competence
 img: # Add image post (optional)
 fig-caption: 

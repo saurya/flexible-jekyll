@@ -24,7 +24,6 @@ Lest you think this borrowing from India is strictly the domain of white music -
 >Baga chadivi fail aipothe (Telugu, _study hard and you still fail_)
 >
 >Take it easy policy
-
 >Valukka thalaiyan thirupathi pona (Tamil, _you go to Tirupati with a bald head_)
 
 Tirupati is a pilgrimage site in Andhra where folks typically go to get their hair shorn off.

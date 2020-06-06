@@ -13,7 +13,7 @@ I was partially inspired by [this tweet](https://twitter.com/hondanhon/status/12
 People anticipated that almost everyone will need to access data from a database and do stuff with it. The big obstacle? The obscure syntax related to querying in all the major languages at the time - the actual look of it is not too important, the important part is how SQL ended up:
 
 ```SQL
-SELECT * FROM Users WHERE User = 'Sonic'
+SELECT * FROM Users WHERE Name = 'Sonic'
 ```
 
 Pretty easy to understand right? Unfortunately most SQL statements in the wild end up looking like this:
@@ -30,9 +30,9 @@ WHERE column3 IN
 )
 ```
 
-Once people realized that the syntax of DL/I and the precursors to SQL were just obscuring a larger problem, they began to study it. The underlying relationship between data in the real world is actually hard to understand and reason about. How should a furniture store organize all of its data on sofas - per branch or globally? What if you want to know how many black sofas were sold on the full moon of every month? Could you do that easily? Once we take that data and transform it into self-contained tables (say per-branch or per-month), breaking those containers to merge is actually quite hard. While there are still a lot of advances that can be made in making programming languages appear more friendly, there will come a time when the underlying physics of data movement in the machine has to be understood.
+The syntax of DL/I and the precursors to SQL were just obscuring a larger problem. SQL cleaned up the syntax and revealed it: the underlying relationship between data in the real world is actually hard to understand and reason about. How should a furniture store organize all of its data on sofas - per branch or globally? What if you want to know how many black sofas were sold on the full moon of every month? Could you do that easily? Once we take that data and transform it into self-contained tables (say per-branch or per-month), breaking those containers to merge is actually quite hard. _No matter which abstraction you pick, you will have problems._ While there are still a lot of advances that can be made in making programming languages friendlier, there will come a time when the underlying physics of data movement in the machine has to be understood.
 
-Let's say you want to pull off the Indiana Jones replace-the-idol-on-weight-sensitive [platform move](https://youtu.be/mC1ikwQ5Zgc) in real life - how many steps does it take? Just two, done really fast, right - bag on platform, idol in hand. Well, let's see what this looks like in code:
+Let's say you want to pull off the Indiana Jones replace-the-idol-on-weight-sensitive [platform move](https://youtu.be/mC1ikwQ5Zgc) in real life - how many steps does it take? Just two, done really fast - bag on platform, idol in hand. Well, let's see what this looks like in code:
 
 ```JavaScript
 hands = 'bag'
@@ -41,7 +41,7 @@ hands = platform
 platform = hands
 ```
 
-This doesn't work - in code you end up with the idol existing in both variables - platform and hands. This is physically impossible, but copying is the default behavior in computers. We have to adjust our mental model. If we want to switch these things, we have to make sure one of the values doesn't get annihilated.
+This doesn't work - in code you end up with the idol existing in both variables - platform and hands. This is physically impossible, but copying is the _default behavior_ in computers. We have to adjust our mental model. If we want to switch these things, we have to make sure one of the values doesn't get annihilated.
 
 ```JavaScript
 hands = 'bag'

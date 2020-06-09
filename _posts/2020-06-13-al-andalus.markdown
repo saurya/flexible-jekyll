@@ -3,7 +3,7 @@ layout: post
 title: The Arab, Muslim influence on the Spanish speaking world 
 date: 2020-06-13 08:00:20 +0800
 description: Ham, guitar and more
-img: # Add image post (optional)
+img: al-andalus.jpg # Add image post (optional)
 fig-caption: 
 tags: [Culture, Spain, Arab, Latin America, Spanish, Arabic]
 ---
@@ -21,3 +21,5 @@ Pork is kind of interesting in this context - the Arab Muslim rulers and Jewish 
 The guitar, similarly, is an African instrument, introduced to Spain during the Moorish conquests and forms a very important part of Spanish music, but no one today would recognize it as an African or Moorish instrument.
 
 These examples illustrate something to me - we are often shaped by our rejection of other cultures as much as our acceptance of them (ham). We absorb and forget that we absorbed (guitar). We continue absorbing for centuries even after there's been a lot of exchange (al pastor) and the resulting projects are all kind of cool and interesting.
+
+I even once toyed with an alternate history story where the Moors send their won version of Christopher Columbus to find another route to India since the Ottomans blocked their regular route. They discover the New World and make contact with the natives. The absence of pigs in the crop basket they bring over might mean that a far greater number of natives survive in North America. Turns out, someone else already wrote a similar story, but I cannot find it now.

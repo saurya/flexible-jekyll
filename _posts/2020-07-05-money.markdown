@@ -1,10 +1,21 @@
 ---
 layout: post
-title: Money
+title: Money and Konmari
 date: 2020-07-05 08:00:20 +0800
 description: What is it good for, huh
-img: .jpg # Add image post (optional)
+img: money.jpg # Add image post (optional)
 fig-caption: # Add figcaption (optional)
-tags: []
+tags: [Money, e-Money, Bitcoin, Ayahuasca, Marie Kondo]
 ---
 
+When I started working on e-payments with Google Singapore in 2016, I had the great fortune (ha, you see what I did there with the title) of meeting [Prachi Nagpal](https://www.linkedin.com/in/nagpalprachi/?originalSubdomain=in). Prachi was a researcher who came at a lot of UX problems from a deeply philosophical angle. I very much enjoyed my conversations with her and have been meaning to reconnect (anyone who knows her and is reading this, please poke her to message me). She lent me a copy of Georg Simmel's Philsophy of Money when we first met. I had it for almost 2 years but barely bit through 100 pages. The book is thick and rivals a lot of Marx's writings in terms of theory density.
+
+One of the takeaways from the book that sticks with me the most is the fatalistic belief that money _will_ one day take over everything material. Anything that cannot be purchased with money today, will one day be accessible through money. Oddly, Simmel believed that as we differentiated individually, we would stop paying for individual attributes. He believed prostitution and bride prices would decrease in practice. But it seems like OnlyFans, the rise of influencer culture and para-social relationships all seems to prove the fundamental tenets of Simmelism.
+
+When I first read Simmel's thesis, I was pretty resistant, especially since it was a bit gloomy. Many of the best experiences in my life had, at most, only indirectly to do with money. But I had never lived another life, so I couldn't tell. It took an article about Silicon Valley bros paying for an Ayahuasca trip that made me think that hmm, maybe Simmel had a point. Once a religious experience that involved the demonstration of labor and commitment to the local community, you could now experience it with Bitcoin. Money becomes _increasingly fungible_. Different monies become increasingly fungible with each other as we all pool together into one globally connected value system.
+
+As money works its way into every little nook and cranny, every little nook and cranny tries to appeal to the biggest pot of money it can access - and that means making products that appeal to a wide range of people. Over time, everyone wants to be in a product market, not a services market. IBM and a few other large companies still make a lot of money off of services, but VCs invest in companies that makes products. The outsize potential to make money only really exists in product markets - one where a single product with few modifications works well enough for a large portion of the customers.
+
+Simmel and Marx both argue that this robs us of special relationships with our objects - these mass produced objects are not imbued with or responsive to our personalities. Marie Kondo...disagrees. Marie Kondo took America and the Western world by storm by introducing a Shinto idea of attachment to and respect for material objects. Her method of thanking objects for what they've given to us and letting go of them seems rather...personal. In the vacuum of meaning that is capitalism and the money system, humans seem to have glommed onto something that allows them to care about things again. Even little things.
+
+Money will keep seeking its way into all the special niches of the world. Your favorite craft beer place will one day be acquired by a larger one which will be acquired by a private equity fund that realizes massive cost-saving benefits from offering the same three big-brand beers as its other bar properties...and you will find a new meaning in that. Human beings and meaning are like the Earth and the moon, separate and yet deeply intertwined. And the only way one will ever touch the other is in a mutually assured flaming destruction.

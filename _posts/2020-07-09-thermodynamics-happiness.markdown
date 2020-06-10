@@ -3,9 +3,9 @@ layout: post
 title: The thermodynamics of mood
 date: 2020-07-09 08:00:20 +0800
 description: Baseline happiness is bullshit
-img: .jpg # Add image post (optional)
+img: # Add image post (optional)
 fig-caption: # Add figcaption (optional)
-tags: []
+tags: [Happiness, Mood, Baseline]
 ---
 
 There's a famous study that says that 3 months after a life-changing event people return to pretty much their same level of happiness - whether that is a lottery ticket or a marriage. I don't know if 'life-changing' event is defined in some extremely loose way but I find this to not be the case. It has been about 1 year since I left Google. I have had many anxious periods in that 1 year, and been able to work some weeks very productively in a consulting capacity, and completely incapable other weeks of basic human needs.
@@ -16,6 +16,5 @@ Left to my own devices, I ended up pursuing a couple of little side projects, le
 
 I am an expert compromiser. It is almost second nature to me to play out the way an exchange would go: "Saurya wants something and reaches to get it, burns out and destroys a bunch of shit in the process, let's skip all of that and instead just ask for less, expect less, make our own joy and live outside of the coil and toil." But this isn't really a way of being human. It's a way of pseudo-enlightenment that borders more on self-punishment than true ascendancy of the spirit.
 
-As long as I want, I will suffer. A life lived without suffering is not life at all. Anyone who chases suffering or avoids the pursuit of contentment because of the potential of suffering.
-
+As long as I want, I will suffer. A life lived without suffering is not life at all. Anyone who chases suffering or avoids the pursuit of contentment because of the potential of suffering is getting it wrong.
 

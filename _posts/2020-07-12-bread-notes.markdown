@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Bread: Singapore
+title: Bread - Singapore
 date: 2020-07-11 08:00:20 +0800
 description: I like bread
 img: singapore-bread.jpg # Add image post (optional)

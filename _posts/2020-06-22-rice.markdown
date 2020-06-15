@@ -3,14 +3,14 @@ layout: post
 title: I love rice
 date: 2020-06-22 08:00:20 +0800
 description: Don't come for my rice
-img: # Add image post (optional)
-fig-caption: 
+img: rice.jpg # Add image post (optional)
+fig-caption: DROOL
 tags: [Rice, White Rice, Red Rice, Brown Rice, Wild Rice, Beriberi, WTO]
 ---
 
 I think about rice a lot. As I'm eating it, cooking it, smelling it, drinking a tea [made with it](https://en.wikipedia.org/wiki/Genmaicha). Smell is powerfully evocative and the smell of rice cooking makes me feel very safe and warm. White rice, especially steaming hot, served on a [steel high-rimmed plate](https://media-cdn.tripadvisor.com/media/photo-s/09/71/75/82/hotel-raama.jpg) is a very powerful gut-punch of comfort for me.
 
-My family eschewed white rice at some point and began to eat brown rice for health reasons. Both my parents are diabetic, so while understandable, this made me and everyone else sad. Brown rice didn't cook the same way. Chew, smell, nothing was familiar enough to white rice. I wanted white rice even if it ruined my nutrition, just like the [Japanese sailors trying to signal class status all those years ago](https://medium.com/war-is-boring/eating-too-much-rice-almost-sank-the-japanese-navy-f985772c81a6).
+My family eschewed white rice at some point and began to eat brown rice for health reasons. Both my parents are diabetic, so while understandable, this made me and everyone else sad. Brown rice doesn't cook the same way. Chew, smell, taste - nothing was similar enough to white rice. We pursued many alternatives - quinoa, oats, but in my heart I wanted white rice even if it ruined my nutrition, just like the [Japanese sailors trying to signal class status all those years ago](https://medium.com/war-is-boring/eating-too-much-rice-almost-sank-the-japanese-navy-f985772c81a6).
 
 Given how deeply important [rice is to much of the world](https://www.reddit.com/r/AskReddit/comments/2np694/what_tasty_food_would_be_distusting_if_eaten_over/), researchers in Sri Lanka found one weird trick to [halve the calories](https://www.businessinsider.com/scientists-discovered-cook-rice-halve-calories-2018-10?IR=T). Pancreas love it!
 

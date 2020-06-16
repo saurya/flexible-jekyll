@@ -14,5 +14,10 @@ Organizations also ascend Maslow's hierarchy - first they attempt just to surviv
 
 5000 years ago the Yellow river valley in China was populated by different peoples in little villages. Their floodplain settlements were prone to...floods every few years. The solution to their problem was simple, known and would benefit everyone - a damn upriver that would hold excess water during the rainy season. However, each individual village lacked the resources to send workers, materials to the build site and stem the flood. Why, after all, should they donate to the long-term future of everyone in the floodplain...even if they had the resources to do so?
 
+Over the years a few of them built up enough spare grain and time to build weapons and wage war against the neighbors. They took over and hopped from village to village, uniting the floodplain under one authority. Now, that authority sat with the surplus of a valley and nothing to do - and turned its attention to building the dam.
 
-But I think so many people are polluting the long game space.
+The lesson here for me is clear: Institutions can be trusted to do the right thing after all harmful options have been exhausted.
+
+Today, we have tech companies that are sitting on $50 billion+ in cash. 30 years ago there were few countries that had the same level of disposable assets. The Catholic Church also sits on an incredible treasure trove of wealth, not just money, but art, land, and mindshare in populations across the globe.
+
+

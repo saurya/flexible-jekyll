@@ -8,3 +8,20 @@ fig-caption: # Add figcaption (optional)
 tags: []
 ---
 
+The [predictive processing model](https://slatestarcodex.com/2017/09/05/book-review-surfing-uncertainty/) of neuroscience has been one of the most intuitively sensible and well-backed models to come out of the field. Knowing the field though, this might all get turned upside down in a year or two. I personally don't think it will, but there are for sure caveats to be worked out, as always with [thinking meat](https://www.mit.edu/people/dpolicar/writing/prose/text/thinkingMeat.html).
+
+Slatestarcodex does a runthrough of an interesting paper about using [predictive processing to understand the active mechanisms of change in psychedelics](https://slatestarcodex.com/2019/09/10/ssc-journal-club-relaxed-beliefs-under-psychedelics-and-the-anarchic-brain/).
+
+This particular part of the original paper is cited in Scott's post:
+
+>Hallucinogen-persisting perceptual disorder (HPPD) is a Diagnostic and Statistical Manual of Mental Disorders, 5th Edition–listed disorder that relates to enduring visual perceptual abnormalities that persist beyond an acute psychedelic drug experience. Its prevalence appears to be low and its etiology complex, but symptoms can still be distressing for individuals (Halpern et al., 2018). Under the REBUS model, it is natural to speculate that HPPD may occur if/when the collapse of hierarchical message passing does not fully recover. A compromised hierarchy would imply a compromised suppression of prediction error, and it is natural to assume that persistent perceptual abnormalities reflect attempts to explain away irreducible prediction errors. Future brain-imaging work could examine whether aspects of hierarchical message passing, such as top-down effective connectivity, are indeed compromised in individuals reporting HPPD.
+
+HPPD occurs in a small number of patients ~4% of regular psychedelic users report it. The most common manifestation of it is visual - things seem "fuzzy" when they shouldn't. I actually experience this as well, but never attributed it to my psychedelic experiments - I just thought my glasses were not very good. What stuck out to me is nearly everyone complains about visual phenomena, which are easy to observe. But pscyhedelics relax priors about many other things - including the separation between yourself and others. These types of prior-relaxations often persist far beyond the trip and are precisely why people use psychedelics! The goal is to strip down some of the deeply held beliefs we have about the separateness of our experience from those around us, to enable us to appreciate beauty in lots of different experiences.
+
+>it is natural to speculate that HPPD may occur if/when the collapse of hierarchical message passing does not fully recover.
+
+I think our hierarchical message passing definitely does not fully recover after a trip. It is permanently changed, in non-visual ways. Our theory of mind might be lost. "What do others know? Well, I know this and I intuitively feel that I am connected to others, no matter what, so they must know it as well."
+
+Something like this feels like what happened to me. I used to have extremely strong ideas of "I know something and they do not." At some point, I became a victim of the [curse of knowledge](https://en.wikipedia.org/wiki/Curse_of_knowledge). I was tapping out a song that others didn't seem to hear at all. It was entirely in my head.
+
+In some ways, it's not that big of a deal. We all navigate the world with broken models and hyper-adjusted priors. Our experience of reality is but a moderately controlled hallucination. Maybe I'm just a bit more aware of the deviance of my hallucination from others'.

@@ -5,7 +5,26 @@ date: 2020-07-16 08:00:20 +0800
 description: 
 img: .jpg # Add image post (optional)
 fig-caption: # Add figcaption (optional)
-tags: []
+tags: [Technology, Emerging Markets, India, South Asia, Brazil]
 ---
 
-Parable of the British in Singapore and how they lost the island because they thought Malaya was all forest.
+Airplanes enabled the British Empire's army in Singapore to monitor vast tracts of Malaya without ever setting foot on the ground. Their reports were filled with details about how Malay was thick with forest. Any invasion of Singapore from the Malayan peninsula would be impossible without an army of seasoned tropical jungle fighters, which the Japanese certainly were not. The invasion of Singapore would almost certainly be via sea, and so the cannons should be pointed out in anticipation of the Japanese navy.
+
+Of course, the Japanese invaded from the north, via Malaya, taking the British garrison by surprise. Once the British realized what was happening, they turned the cannons on Singapore and bombarded the Japanese advance, but to no avail.
+
+How did it all go so wrong?
+
+Airplanes were these hot new things that allowed you to cover much more area than before, map the territory's roads and paths with ease. Airplanes also completely miss the ground reality. The thick forest cover of Malaya was in fact vast rubber plantations with walking paths underneath the wide canopy of the trees. The Japanese soldiers didn't have to cut through a single vine - they were able to march and ride through comfortable paths. Since the British completely lacked the knowledge of the on-the-ground reality, the Japanese gained a reputation as incredible jungle fighters, and Singapore was subjected to a brutal Japanese occupation until the end of the war.
+
+Today, similarly, tech companies are looking at markets otuside of the West and seeing a lot of similarities. The rising middle class in India, Pakistan, Brazil, Nigeria are certainly inspiring in terms of size, affluence and growth. The problems they face might also be similar, but the solution shape would look very different for each country, and perhaps even within each country.
+
+Businesses do best when they can address a product market - one where a single product addresses a lot of customer's needs. Often you can only guess that you're in a product market and attempt to push it out to see if anyone buys it. Fintech however is not like this at all. Driven mostly by governments and large financial corporations, digital payments is a solution looking for a problem. People like cash! There are huge societal problems that come out of it, but cash itself is great for a lot of folks. So why are all these companies and governments trying to push for it?
+
+They see their people from the top-down. They see a world kind of like China's - a country where nearly 40% of GDP flows with no visibility to the government at all. That terrifies many governments and they want a handle on it. So does VISA. So do the banks. They want visibility and they're now in a race to get it. It has little to do with the ground realities of NBU countries or markets. In truth, China's fintech succeeded because the Chinese financial ecosystem is so impoverished. The average person cannot hope to get more than a 1% return on their investments within China. Real estate is an often traded commodity for greater wealth, but for those who don't have the capital to start up a real estate buy? You're screwed. AliBaba and Tencent came in to offer investment accounts, which eventually became high-yield checking accounts everyone used to buy everything.
+
+In more mature capitalist economies like India, with tons of financial options for the average middle class person, the pull towards fintech simply doesn't exist.
+
+Similarly, NBU countries are united by a few other problems - data isn't very good, both in terms of cellular data and market data, literacy is a scattershot, and in many NBU countries - the sheer diversity of languages blows everything out of proportion.
+
+All of these problems will get solved in diverse ways - India had Jio, which completely flipped the data market in the country. Indonesia had GoJek which offers everything from massages to food delivery. There will not be one tech solution that fits all and scales across the way Instagram and Facebook did. That world is now gone, the reality is that the territory that looks so impenetrable from up above, is very navigable down on the ground.
+

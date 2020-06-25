@@ -8,7 +8,7 @@ fig-caption: # Add figcaption (optional)
 tags: [Olivia, Papers, Ingroup, Outgroup]
 ---
 
-[Olivia's](//oliviachi.com) job market paper [A Classroom Observer Like Me](https://www.dropbox.com/s/vke9l6mtl5hmqqk/Chi%20JMP%20201910.pdf?dl=0) shows that if a teacher's rater is the same demographic as the teacher, they tend to give higher ratings. Classic in-group bias that shows we should take ratings of teachers with a grain of salt.
+[Olivia's](https://www.oliviachi.com) job market paper [A Classroom Observer Like Me](https://www.dropbox.com/s/vke9l6mtl5hmqqk/Chi%20JMP%20201910.pdf?dl=0) shows that if a teacher's rater is the same demographic as the teacher, they tend to give higher ratings. Classic in-group bias that shows we should take ratings of teachers with a grain of salt.
 
 [My cousin Phanish's](https://www.insead.edu/faculty-research/faculty/phanish-puranam) friend and former student once came to a barbecue Phanish was hosting - we got to talking and Phanish mentioned that [Reddi](https://www.smu.edu.sg/faculty/profile/9503/Reddi-KOTHA) worked on a paper predicting the success of companies based on the [kinship ties of the founding team](https://ink.library.smu.edu.sg/lkcsb_research/6497/).
 

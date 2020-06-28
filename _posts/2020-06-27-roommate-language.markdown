@@ -3,7 +3,7 @@ layout: post
 title: My Roommate's Language
 date: 2020-06-27 08:00:20 +0800
 description: We speak similar, but not the same
-img: .jpg # Add image post (optional)
+img: # Add image post (optional)
 fig-caption: # Add figcaption (optional)
 tags: [Language, Kannada, Telugu, South India]
 ---

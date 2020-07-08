@@ -8,7 +8,7 @@ fig-caption: # Add figcaption (optional)
 tags: [Happiness, Mood, Baseline]
 ---
 
-There's a famous study that says that 3 months after a life-changing event people return to pretty much their same level of happiness - whether that is a lottery ticket or a marriage. I don't know if 'life-changing' event is defined in some extremely loose way but I find this to not be the case. It has been about 1 year since I left Google. I have had many anxious periods in that 1 year, and been able to work some weeks very productively in a consulting capacity, and completely incapable other weeks of basic human needs.
+There's a famous study that says that 3 months after a life-changing event people return to pretty much their same [level of happiness](https://en.wikipedia.org/wiki/Hedonic_treadmill) - whether that is a lottery ticket or a marriage. I don't know if 'life-changing' event is defined in some extremely loose way but I find this to not be the case. It has been about 1 year since I left Google. I have had many anxious periods in that 1 year, and been able to work some weeks very productively in a consulting capacity, and completely incapable other weeks of meeting my own basic human needs.
 
 1 year out, I am much, much happier than I was at Google. I feared being left to my own devices - if I have no one to blame and no way to externalize my discontent, I told myself, I would end up beating up on myself and spiraling into the type of depression that marked my late teens. I failed a semester at Brown, almost failed a second one and ended up with few friends and fewer good memories by the time I turned 20.
 

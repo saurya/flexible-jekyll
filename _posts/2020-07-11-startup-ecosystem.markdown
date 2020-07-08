@@ -32,7 +32,7 @@ Why?
 
 ### Technical talent is global
 
-Truly technically talented people can go anywhere, so they often pick the most vibrant ecosystem they have access to, and for many that means getting a US visa and going to silicon valley. You level up faster in a dynamic ecosystem with tons of companies to choose from - untapped markets (like where you are originally from) might be untapped because they're untappable.
+Truly technically talented people can go anywhere, so they often pick the most vibrant ecosystem they have access to, and for many that means getting a US visa and going to Silicon Valley. You level up faster in a dynamic ecosystem with tons of companies to choose from - untapped markets (like where you are originally from) might be untapped because they're untappable.
 
 ### Technology doesn't make money
 
@@ -40,6 +40,6 @@ A group of very good technologists all sitting together building technology toge
 
 ### Investors don't trust black boxes
 
-Many investors outside of Silicon Valley didn't make their money off of tech. They don't necessarily understand the principles and business models behind tech companies. They would much rather pursue the traditional business of squeeze costs and drive immediate profits. Even if they are VCs, they might not be VCs who believe in the type of moonshots early SV used to. Which, honestly, might be for the best.
+Many investors outside of Silicon Valley didn't make their money off of tech. They don't necessarily understand the principles and business models behind tech companies. They would much rather pursue the traditional business of "squeeze costs and drive immediate profits". Even if they are VCs, they might not be VCs who believe in the type of moonshots early SV used to. Which, honestly, might be for the best.
 
 All of these factors drain enthusiasm for deep technical companies and products. I am not sure whether that's actually a shame or not yet. The environment might simply not need it or be enhanced by it. After all, if people were willing to pay for it, [wouldn't it exist](https://www.investopedia.com/terms/e/efficientmarkethypothesis.asp)?

@@ -30,7 +30,7 @@ Those were the good days of the internet man, before it started fucking up democ
 
 ### Rhythm
 
-I like the idea of putting out a post every day. I find interacting with people in person to be hard for me sometimes because my mind is overflowing with thoughts and pushing those aside to do justice to the moment in front is difficult. I am hoping to get into a rhythm with my mind that says "Don't worry thoughts...you'll all get a chance in the limelight but for now can we just hand the cashier our card instead of thinking about spaceships?" Giving myself a guaranteed public channel of expression will hopefully soothe a lot of the anxiety and racing thoughts that show up when I'm having a bad time.
+I like the idea of putting out a post every day. I find interacting with people in person to be hard for me sometimes because my mind is overflowing with thoughts and pushing those aside to do justice to the moment is difficult. I am hoping to get into a rhythm with my mind that says "Don't worry thoughts...you'll all get a chance in the limelight but for now can we just hand the cashier our card instead of thinking about spaceships?" Giving myself a guaranteed public channel of expression will hopefully soothe a lot of the anxiety and racing thoughts that show up when I'm having a bad time.
 
 ### If you build it, they will come
 

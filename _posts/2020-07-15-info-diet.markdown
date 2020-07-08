@@ -3,18 +3,19 @@ layout: post
 title: Our processed information diet
 date: 2020-07-11 08:00:20 +0800
 description: 
-img: .jpg # Add image post (optional)
+img: eatingdata.jpg # Add image post (optional)
 fig-caption: # Add figcaption (optional)
-tags: []
+tags: [Information Age, Blogging, Writing, Food, Internet]
 ---
 
 There's a parable about Doritos - that they were [engineered](https://www.mashed.com/120166/untold-truth-doritos/) by taste scientists to be maximally appealing to the palate. Now, of course, the palate isn't one consistent thing across societies, individuals, activity levels and environmental stresses, but American life is uniform enough across the continent and diet similar enough that scientists were able to optimize the recipe in service of their objective function: profit.
 
-There are numerous documentaries now on the nature of the food industry. Food science, once the stronghold of scientists like Norman Borlaug, who helped bring revolutionary agricultural practices to millions, is now the willing tool for commoditized F&B brands to develop some competitive advantage against others in the market. In the meantime, as stocks soar, the physical (and therefore mental) health of Americans is ruined.
+There are numerous documentaries now on the nature of the food industry. Food science, once the stronghold of scientists like Norman Borlaug, who helped bring [revolutionary agricultural practices] and [geopolitical independence](../bizarre-fertilizer)
+ to millions, is now the willing tool for commoditized F&B brands to develop some competitive advantage against others in the market. In the meantime, as stocks soar, the physical (and therefore mental) health of Americans is ruined. Eventually, this same food science will bring its same destruction to [other areas of the world](https://en.wikipedia.org/wiki/Obesity_in_Mexico) as well.
 
 I have particular theories about food and how we should relate to our body which are probably best kept for late night drinking sessions when we are *all* coming out with crazy ideas. But metrics don't lie. Americans are much less healthy now than they were 20 years ago. City design, suburban isolation and the increase in quality of television almost certainly play a role as well, but the proximal cause to me, is the insane amount of processed, non-nutritious calories available at dirt cheap prices.
 
-The distal cause for this is the capitalist incentive structure applied to saturated markets. No one says "Y'know I think Americans have enough stuffed cream puffs on the grocery shelves." - they enter the market and attempt to compete and capture the whole thing. Consumers, spoiled for choice often end up consuming far more than they would normally, all of it non-nutritive and slowly poisoning.
+The distal cause for this is the capitalist incentive structure applied to saturated markets. No one says "Y'know I think Americans have enough stuffed cream puffs on the grocery shelves." - they enter the market and attempt to compete and capture the whole thing. Consumers, spoiled for choice and out of touch with the needs of their bodies, often end up consuming far more than they would normally, all of it non-nutritive and slowly poisoning.
 
 This same capitalist incentive structure has now focused its attention...on our attention. Whatever happened to our appetite a few decades ago - hijacked, excised, dissected and served back to us in unhealthy forms - is happening now to attention. The rage attention economy is finding the same [buttons in the human psyche that trigger re-engagement](https://www.youtube.com/watch?v=rE3j_RHkqJc) the way Doritos scientists found the super-MSG shot that triggers it for our taste. 
 
@@ -24,7 +25,7 @@ Can we now make predictions about what the future of human attention will be, ba
 Learn more about the world around you physically. The internet makes it easy to access reams of information about history, geography and daily life from around the world. This disembodied method of learning is expensive and carries few rewards. Learning more deeply about the place around you will lead to better chains of feedback.
 
 ### Organic
-Avoid industrialized content farms like BuzzFeed - focus on articles that don't have the same structure as others. [Funky-looking](https://en.wikipedia.org/wiki/Heirloom_tomato#:~:text=An%20heirloom%20tomato%20(also%20called,less%20disease%20resistance%20than%20hybrids.) articles and articles that don't look like articles, published by people who have been at it for some time and go deep into the craft behind how they made it, are probably 'healthier' for the information ecosystem.
+Avoid industrialized content farms like BuzzFeed - focus on articles that don't have the same structure as others. [Funky-looking](https://en.wikipedia.org/wiki/Heirloom_tomato) articles and articles that don't look like articles, published by people who have been at it for some time and go deep into the craft behind how they made it, are probably 'healthier' for the information ecosystem and your diet.
 
 (I'm putting aside my own deep concerns with organic agriculture here)
 
@@ -36,4 +37,4 @@ Food and information, both, were driven by community for a long time. We should 
 I think many of Pollan's rules could apply just as well to information. Stay out of the mainstream, avoid anything templatized,consume information together and always leave a little hungry.
 
 
-One thing that isn't covered by these rules is that food is physically processed and digested and dropped off. We are trained from a young age to absorb nutrition and drop off waste. We are simply not taught the same thing about information. Many of us become information obese as a result - holding on to memories of our own lives, obscure facts with little relevance and Simpsons quotes. Looking at our information system like our digestive system, as a set of neurons that learn a deep model of the world from consistent, healthy feeding, might also help stave off many of the problems associated with the mind. After all, the gut has a [brain of its own too](https://en.wikipedia.org/wiki/Enteric_nervous_system#:~:text=The%20enteric%20nervous%20system%20(ENS,function%20of%20the%20gastrointestinal%20tract.).  
+One thing that isn't covered by these rules is that food is physically processed and digested and dropped off. We are trained from a young age to absorb nutrition and drop off waste. We are simply not taught the same thing about information. Many of us become information obese as a result - holding on to memories of our own lives, obscure facts with little relevance and Simpsons quotes. Looking at our information system like our digestive system, as a set of neurons that learn a deep model of the world from consistent, healthy feeding, might also help stave off many of the problems associated with the mind. After all, the gut has a [brain of its own too](https://en.wikipedia.org/wiki/Enteric_nervous_system).  

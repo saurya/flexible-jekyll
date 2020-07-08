@@ -5,18 +5,18 @@ date: 2020-07-10 08:00:20 +0800
 description: 
 img: # Add image post (optional)
 fig-caption: # Add figcaption (optional)
-tags: []
+tags: [Music, North Africa, Languages]
 ---
 
 I really love North African music.
 
 There's the master of it all - Umm Kalthoum, from Egypt, whose [Enta Omri](https://www.youtube.com/watch?v=XPGHpBOt5sE) I referenced before when talking about [Shakira](../al-andalus).
 
-There's the Algerian pop (rai) sensations - Cheb Khaled, whose hit song [Didi](https://www.youtube.com/watch?v=tTcnIYYeZI8) was a big hit in India, possibly because didi is a very common word for sister and also this song _just fucking slaps_. Try not to move your body while listening to it! Try! You can't! You'll just build up energy and spontaneously combust! Khaled's other hits are also damn [groovy and dramatic with arguably Indian titles](https://www.youtube.com/watch?v=5iVLRq5Sj8s).
+There're the Algerian pop (rai) sensations like Cheb Khaled, whose hit song [Didi](https://www.youtube.com/watch?v=tTcnIYYeZI8) was big in India, possibly because didi is a very common word for sister and also this song _just fucking slaps_. Try not to move your body while listening to it! Try! You can't! You'll just build up energy and spontaneously combust! Khaled's other hits are also damn [groovy and dramatic with arguably Indian titles](https://www.youtube.com/watch?v=5iVLRq5Sj8s).
 
 Cheb Mami was once featured on a Sting song/horse advertisement - [Desert Rose](https://www.youtube.com/watch?v=3gzqsmx1KGU) - and Mami was the only enjoyable part of the whole thing. I have tried in vain to find studio versions of Desert Rose without Sting. Mami's other songs are [quite phenomenal as well](https://www.youtube.com/watch?v=0J03yTS-hKE) - even if he doesn't have the on-screen presence of [certain other Arabic language performers](https://www.youtube.com/watch?v=lVlgMEFu1PI). 
 
-Ghalia Ben Ali's [Ya M'Safer](https://www.youtube.com/watch?v=TwegkaPCmt8) is fantastic, and you can see where Spanish guitar gets so much of its influence. The name of the song itself is a cognate of [humsafar]() a borrowing into Hindi from Arabic via Farsi. It's actually quite a common word, as in Qurat-ul-Ain Baloch's rendering of the tearful [Woh Humsafar Tha](https://www.youtube.com/watch?v=3TFFThFNE0Y), which is both the theme for a TV show and a ghazal about the break-up of Pakistan into Pakistan and Bangladesh in 1971. "He was my companion", indeed.
+Ghalia Ben Ali's [Ya M'Safer](https://www.youtube.com/watch?v=TwegkaPCmt8) is fantastic, and you can see where Spanish guitar gets so much of its influence. The name of the song itself is a cognate of [humsafar](https://en.wiktionary.org/wiki/%D9%85%D8%B3%D8%A7%D9%81%D8%B1#Urdu) a borrowing into Hindustani from Arabic via Farsi. It's actually quite a common word, as in [Qurat-ul-Ain Baloch](../qb)'s rendering of the tearful [Woh Humsafar Tha](https://www.youtube.com/watch?v=3TFFThFNE0Y), which is both the theme for a TV show named Humsafar and a ghazal about the break-up of Pakistan into Pakistan and Bangladesh in 1971. "He was my companion", indeed.
 
 [A Vava Inouva](https://www.youtube.com/watch?v=8qcSdqc7QYo) by Idir is a Kabyle (Berber) song. The voices and guitar melody are haunting and the lyrics don't tone it down any. Some of the most subtle and terrifying exchanges between a [father and daughter](https://lyricstranslate.com/en/vava-inouva-o-father-inouva.html).
 

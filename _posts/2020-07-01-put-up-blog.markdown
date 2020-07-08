@@ -2,7 +2,7 @@
 layout: post
 title: Why am I blogging?
 date: 2020-07-01 08:00:20 +0800
-description: 
+description: What is it good for?
 img: # Add image post (optional)
 fig-caption: # Add figcaption (optional)
 tags: [Meta, Blogging, Writing]

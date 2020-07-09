@@ -3,7 +3,7 @@ layout: post
 title: Is technology good?
 date: 2020-07-17 08:00:20 +0800
 description: Yes, it is morality that's bad
-img: .jpg # Add image post (optional)
+img: # Add image post (optional)
 fig-caption: # Add figcaption (optional)
 tags: [Technology, Morality, Determinism]
 ---
@@ -25,5 +25,3 @@ If we want to examine whether technology is good or bad, we have to first define
 I might be arguing against a strawman here, but this is how I see the frame placed around technology in my head.
 
 Taken altogether, I am a firm believer in "Technology is not good, not bad, nor is it neutral." The development of particular technologies at particular times shifts the livelihoods of millions and changes the way we structure our society in response. It is very hard to put a valence on such enormous structural changes. They are violent and inevitable, upheavals of systems often are. I think we can only counter the ever-growing behemoth of indifferent technology that rules over us with kind-hearted immediate empathy towards those around us. It's the only thing technology can't do better yet.
-
-

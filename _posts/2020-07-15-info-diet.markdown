@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Our processed information diet
-date: 2020-07-11 08:00:20 +0800
+date: 2020-07-15 08:00:20 +0800
 description: 
 img: eatingdata.jpg # Add image post (optional)
 fig-caption: # Add figcaption (optional)

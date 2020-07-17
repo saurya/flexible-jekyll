@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Is technology good?
-date: 2020-07-17 08:00:20 +0800
+date: 2020-07-17 16:00:20 +0800
 description: Yes, it is morality that's bad
 img: # Add image post (optional)
 fig-caption: # Add figcaption (optional)

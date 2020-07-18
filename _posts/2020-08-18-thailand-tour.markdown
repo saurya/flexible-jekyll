@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Thailand
-date: 2020-07-18 08:00:20 +0800
+date: 2020-08-18 08:00:20 +0800
 description: 
 img: royal-palace.jpg # Add image post (optional)
 fig-caption: # Add figcaption (optional)

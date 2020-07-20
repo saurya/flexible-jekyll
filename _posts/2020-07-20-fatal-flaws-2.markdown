@@ -3,7 +3,7 @@ layout: post
 title: Fatal Flaws 2 - This time it's societal
 date: 2020-07-20 08:00:20 +0800
 description: 
-img: .jpg # Add image post (optional)
+img: # Add image post (optional)
 fig-caption: # Add figcaption (optional)
 tags: []
 ---

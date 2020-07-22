@@ -21,16 +21,22 @@ We can trace almost any element of society back far enough to say "You didn't ma
 It's usually China or India and it doesn't necessarily have to do with the incredible genetic brilliance of the people involved. It has to do with floodplains. The Indus, Ganges, Yellow river have some of the most fertile land in the world and sponsored large populations. Large populations meant large markets and large markets meant a way for humble traders from remote, low population regions to make a lot of money. Traders with new goods, ideas and a lot of labor could set their caravan down anywhere along the Ganges and sell their goods, as Iqbal alludes to in [Sare Jahan Se Accha](https://en.wikipedia.org/wiki/Sare_Jahan_se_Accha):
 
 >Ai āb-i rūd-i Gangā! wuh din haiṉ yād tujh ko?
+>
 >اے آبِ رودِ گنگا! وہ دن ہیں یاد تجھ کو؟
+>
 >ऐ आब-ए-रूद-ए-गंगा! वह दिन हैं याद तुझको?
 >
+>
 >Utrā tire kināre jab kārwāṉ hamārā
+>
 >اترا ترے کنارے جب کارواں ہمارا
+>
 >उतरा तिरे किनारे जब कारवाँ हमारा
 
 
 Which translates to
 >O the flowing waters of the Ganges, do you remember that day
+>
 >When our caravan first disembarked on your waterfront?
 
 In a hundred years, people will grow up thinking Pizza and Burgers are American. I think many people already associate these things with America. Yogurt is seen as American when it is Turkish, brought by Armenians to America. The biggest market will absorb influences from all over the world, pick the winners according to the tastes of the most powerful within that [market and then advertise it as its own](https://en.wikipedia.org/wiki/Pizza_effect).

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Digital Payments and Mining Towns
-date: 2020-08-21 08:00:20 +0800
+date: 2022-08-21 08:00:20 +0800
 description: 
 img: # Add image post (optional)
 fig-caption: # Add figcaption (optional)

@@ -1,0 +1,24 @@
+---
+layout: post
+title: Outside is America
+date: 2020-12-25 08:00:21 +0800
+description: A man breathes into a saxophone
+img: # Add image post (optional)
+fig-caption: # Add figcaption (optional)
+tags: [Personal, America, Burgers, Gyms]
+---
+
+The song for this post is [Bullet the Blue Sky by Sepultura](https://www.youtube.com/watch?v=ASArtPbjP4s&ab_channel=BlankTV) - the [original by U2 being a decidedly whinier number](https://www.youtube.com/watch?v=fdmNC8ylrXI&ab_channel=JordanLloyd) more appropriate for Bono’s overall image as [Whole Foods rock Jesus](https://i.imgur.com/fRSmCrD.jpg).
+
+The ethic of America, the stereotype of Americans and the day-to-day of American life is something that never fit well into my life. It found its way in but sits uncomfortably like a meal of cabbage and beans. Logically, ethically, the ideas of American Saurya sit in sharp contrast with those of Indian Saurya. There is, of course, a lot more going on inside both of these identities but the oil-and-water mix that they are remains. A part of this is how little my home environment was permeated by American ideas, culture and food. Norms of American child-rearing were completely alien to my parents. They drew much of their inspiration from [Spock’s fantastic book](https://theconversation.com/dr-spocks-timeless-lessons-in-parenting-122377), but the baseline values they carried through their lives - scholasticism, vegetarianism, frugality - were fringe values in the US when we arrived in 1997. Inside our house was still India, 1997, all the way until 2010. Honestly even now. America didn’t concern itself with breaking into our home except to drive us out of it with either rules of immigration or the inexplicable beeping smoke detector that reacted to every aromatic compound my mother used in cooking. Outside was America.
+
+Shoes are something you take off when you enter the home. It contains traces of the outside and it tracks dirt in. This was common knowledge and what we practice, along with millions of other Asian-American households.
+There is a different language you use in the home too. Words for the street, for the rough types you meet out there, don’t belong at home. Take your shoes off at the door. Leave America outside.
+
+There is an aspect of who I am that simply cannot be shared with most people I meet! I take a lot of it off when I put on my shoes and I certainly don’t want to live in a house where I have to keep my shoes on all the time.
+
+The first time I had a beef burger, intentionally, was in Germany. It was at the insistence of an Indian friend who grew up in Jakarta, attending an almost entirely Indian international school. Eating a burger was hip, perhaps liberating for him. The fact that I had resisted something as American as a meat sandwich named after a German city after spending most of my life in a decidedly unwoke working/middle class America was an odd feat of resistance and strength.  This act, like many of my acts of stubborn strength, was one few noticed, and those that did, did not respect. A fundamentally American experience - a Five Guys burger - in Germany. No matter where you are outside, outside is America.
+
+Gyms are sad places. There is no sun. The lighting is blue and depressing. The smell is layered - a disinfectant chosen not to smell alcoholic and astringent like a hospital, but not sweet like a five-star hotel bathroom either. Underneath that is the metal of the equipment, the plastic, rubber and sweat. Underneath all of that is America. No matter which indoor gym I’ve been to in the world, it carries the smell of America. Maybe I’m calling it smell when it’s another sense entirely - of the use of indoor space, the balance of metal to glass. I don’t know what it is, perhaps philosophy that pervades the space but I am convinced that gyms are America reduced into a sad, extremely profitable enterprise. An industrial approach to the body, a business model that only works as long as most of your clients never use your facilities, the big sell of a better self, the aspiration, the letdown. It’s all America. The gym I attend is inside a building here in Singapore, but it is somehow the most outside and the most America of anything I’ve participated in.
+
+The outside world is a thing we must contend with. Our safe homes are only safe as long as we can supply them with food and materials for survival. The outside world is our enemy in much the same way that a tornado is an enemy for the corn farmer. The farmer might view it as a battle of the wills, but the wind has no agency. It seeks nothing and wants nothing. It doesn’t destroy out of malice, and it cannot be called cruel, cold or indifferent. America is much the same thing. It is a tornado and you can never prepare your house for its power, but you can survive it as long as you know its coming. It's coming.

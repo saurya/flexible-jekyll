@@ -1,0 +1,23 @@
+---
+layout: post
+title: A Hole Shaped Like Me!
+date: 2020-12-25 09:00:21 +0800
+description: I found mine!
+img: # Add image post (optional)
+fig-caption: # Add figcaption (optional)
+tags: [Personal, Google, Work, Fit]
+---
+
+I must have been 15 when I first read the [Enigma of Amigara Fault](https://imgur.com/gallery/Wht7z). It is a horror story, so if you’re not into that, I recommend you turn away, but it’s probably the best way to understand the rest of this post. The central premise of the story is that a mountain slide reveals a set of holes shaped like human silhouettes, and people dive into them believing that they’ve finally found the perfect hole for them. For the first time in their lives, they believe something is calling them. It is a siren song (spoilers!).
+
+There is a powerful allure to finding an opportunity that seems to fit who you are perfectly. It is implied that you will be required (and empowered!) to become more of everything that you are right now. And hey, you like who you are now, so being more of that would make you happier, right? You'll have to become a more exaggerated version of yourself in order to survive and grow in that position. This ultimately leads some of us to our flaws. Any talent you cannot control becomes a curse. And any virtue grown without perspective becomes a compulsion.
+
+Google was a perfect fit for me after graduation. I was obsessed with the idea of using technology to make the world a better place - it fit the rhetoric of Google. I loved the idea of being around tech-obsessed nerds with PhDs. I loved making money after growing up not being able to afford very nice things. I found the perfect-shaped hole for someone like me. In a way, I got everything that I wanted out of the experience - especially at the start. But as time waxed on, the company changed and I had to change with it until I became something that I wasn’t really happy with. A cog in the machine. A meeting guy.
+
+I refer often to [the Doritos story](https://www.mashed.com/120166/untold-truth-doritos/) because it’s a powerful parable about the modern world - that our tastes are observed, measured, hyper-stimulated and used to manipulate us to exhaustion and [ill health](../info-diet). Google’s hiring PR of "don't be evil" was very much the same - a hyper-stimulus meant for Messiah complex, survivor-guilt ridden people like me to unlock their life energy and passion for use by the company. I hold no grievance towards Google or anyone else who provided this type of stimulus to me, it was a necessary navigation of the self. It helped me recognize the death drives within myself - the portions of me, which if left unchecked, would happily lead me down a path of ego destruction and bodily misery.
+
+A thread on software engineering Twitter, which I cannot find at the moment, highlighted a sad, rarely spoken truth - that overwork is often shoddy. But we’re compelled to clap for it, lest we kick someone while they’re down and exhausted. In the past, when I found a hole vaguely shaped for me, I was so filled with gratitude from belonging - a feeling I rarely encounter - I poured myself into it entirely. I did this in relationships and projects, until there was nothing left in me. My work was shoddy as a result - impatient, desperate, I put out half-formed thoughts and emotions and artifacts rather than intentionally Good works. Trying a little less would probably have been much better for everyone involved. I’m starting to view much of my desire to over-perform as a compulsion, since I didn’t feel joy or control during many of those moments. It felt like I _had_ to overwork.
+
+I’m more cautious of Saurya-shaped holes now. They don’t leave room for growth. The tight-fit feels like belonging, but it didn't give me the freedom I needed to discover what makes me happy. I learned a lot at my time at Google - about software, about corporate life, about technology and people, but I think I was led to the natural conclusion of my philosophy while there. I realized the limits of technology, capitalism, people. I realized a lot of stories start out with the best of intentions but in the end they morph into an entirely different, horrific shape.
+
+I am not despairing about what I have to do with my life, though, I haven't figured out much either. All I know is one thing I don't want to hear from a for-profit corporation now - sugar-laced rhetoric that makes me feel like I belong to a community of Utopians bringing in the next Enlightenment.

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Home
-date: 2022-10-24 08:00:21 +0800
+date: 2022-01-10 08:00:21 +0800
 description: Sweet Home
 img: # Add image post (optional)
 fig-caption: # Add figcaption (optional)
@@ -30,15 +30,3 @@ Everyone looked at Nuwan, waiting for him to realize his mistake - going back, o
 I associate my childhood and the carefree nature of childhood with India and Indian life in general. It's not reality. Life would have been hard had I stayed. Life was hard in its own way in America. It's very easy though to fantasize about going back to that place where things were simpler. It was the era that defined my feelings as much as the location. You never step in the same river twice and you can never go back home.
 
 You can, however, build a new home! I have put a lot of thought into this before, but I've never penned the thoughts to paper. Rather than wrestling with the past and grand definitions of home, I can just make the one that I want and build towards it.
-
-#Location
-##Temperature
-Warmth is important to me. As is proximity to an airport once the pandemic life is over. Singapore is lovely in this respect. There are few days here where I don't sweat. Breezes are rare, but when they do happen, I cannot imagine leaving it behind. I've considered Taiwan, Thailand, India for my next destination. I think there are places in the US that can give me a lot of the warmth, but not...the other stuff.
-
-##Travel
-
-##
-
-n 
-
-

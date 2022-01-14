@@ -3,7 +3,7 @@ layout: post
 title: RPGs
 date: 2022-01-05 08:00:20 +0800
 description: No, not rocket-propelled grenades 
-img: [http://og-meta-image-test.as.r.appspot.com/url?url=https://saurya.com/blog/rpgs/] # Add image post (optional)
+img: http://og-meta-image-test.as.r.appspot.com/url?url=https://saurya.com/blog/rpgs/ # Add image post (optional)
 fig-caption: # Add figcaption (optional)
 tags: [Games, Tabletop, Role-playing]
 ---

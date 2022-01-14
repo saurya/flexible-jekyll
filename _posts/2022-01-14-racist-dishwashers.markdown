@@ -3,7 +3,7 @@ layout: post
 title: Can racists build dishwashers?
 date: 2022-01-14 08:00:21 +0800
 description: Or, at least good ones?
-img: # Add image post (optional)
+img: http://og-meta-image-test.as.r.appspot.com/url?url=https://saurya.com/blog/racist-dishwashers/ # Add image post (optional)
 fig-caption: # Add figcaption (optional)
 tags: [Racism, Enterprise, Colonialism, Capitalism, Organizational Behavior]
 ---

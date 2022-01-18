@@ -25,7 +25,7 @@ I ate a lot of facts when I was younger and the mind being what it is wants to c
 But there's something going through my mind a lot lately - not peanuts, partition or even mustard - but close. It's another black seed, a bit smaller, with faith much larger.
 
 ## Poppies
-Both Afghanistan and Bengal have a storied history with poppies. Humanity as a whole has a storied history with the plant, which Michael Pollan covers in his 
+Both Afghanistan and Bengal have a storied history with poppies. Humanity as a whole has a storied history with the plant, which Michael Pollan covers in [this lovely essay](https://harpers.org/archive/2018/04/flowers-of-evil-2/#:~:text=One%20flower%20was%20the%20cause,might%20or%20might%20not%20be.).
 
 100 years ago, Singapore's economy ran on a steady import of Bengal poppies for refinement and shipping to Hong Kong and Shanghai.
 Today, Kabul seems to be running heroin into Russia, the Punjab and everywhere else as a way to recover its economy. 

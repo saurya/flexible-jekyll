@@ -2,10 +2,11 @@
 layout: post
 title: The real truth is hidden
 wate: 2023-05-17 10:00:21 -0800
-description: in the pyramids!
+description: in the pyramids
 img: # Add image post (optional)
 fig-caption: # Add figcaption (optional)
 tags: [Conspiracies, Training, Truth]
+---
 
 In my talk the other day with my trainer, he brought up the famous ancient aliens conspiracy - that it was aliens that built the pyramids of Giza, because the sheer task of moving millions of stones seems impossible without modern equipment. Conspiracy theories like this used to annoy the crap out of me when I was younger, mostly because they're really easy to disprove. But as I got older, I realized they serve a different purpose - they reify our model of the world. Specifically, they reify the idea that the truth about our world is hidden. If something incredible happened...why would they simply publish how that happened in books, newspapers and TV? Clearly, the valuable things in the world are hidden away from you.
 

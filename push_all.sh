@@ -1,3 +1,3 @@
-!#/bin/bash
+#!/bin/bash
 git push github
 git push origin

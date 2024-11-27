@@ -1,11 +1,15 @@
 #!/bin/bash
+TODAYS_DATE=$(date -Idate)
+
+FILE_NAME=$TODAYS_DATE"-"$(echo $@ | sed -e 's/ /-/g')".markdown"
+echo $FILE_NAME
 echo "---
 layout: post
-title: Restarting this blog?
-date: 2024-11-26 10:00:21 -0800
+title: $@
+date: $TODAYS_DATE 10:00:21 -0800
 description: 
 img: # Add image post (optional)
 fig-caption: # Add figcaption (optional)
 tags: [Writing]
----" > ./_posts/$(date -Idate)-new-post.markdown
+---" > ./_posts/$FILE_NAME
 

@@ -1,0 +1,11 @@
+---
+layout: post
+title: Restarting this blog?
+wate: 2024-11-26 10:00:21 -0800
+description: 
+img: # Add image post (optional)
+fig-caption: # Add figcaption (optional)
+tags: [Writing]
+---
+
+I have a lot of updates on life. I got married. I went on a honeymoon. I left my job at Google. I joined another company. I did a lot of weightlifting. I'll get to all of it. Just have to start the facuet though.

@@ -70,7 +70,7 @@ My parents are both approaching 75 and I truly wish they live to 100. I understa
 But they both seem to have more fire and verve mentally than ever before. Perhaps mentally is the wrong word. Spiritually, perhaps. They're as committed to their ideals, their ways of being. Akira Kurosawa, upon receiving his Oscar said:
 > I’m only now beginning to see the possibility of what cinema could be, and it’s too late.
 
-He was 83 at the time. Instead of sending out a jaded and "cool" quote about how he feels that all of film has been little more than piss on the garbage fire of the world, Kurosawa admits that even at 83 he has only just begun to tap into the possibilities of the human imaginal realm.
+He was 83 at the time. Instead of sending out a jaded and "cool" quote about how he feels that all of film has been little more than piss on the garbage fire of the world, Kurosawa admits that even at 83 he has only just begun to tap into the possibilities of the human imaginal realm. I stole this quote from a [rather good blog post about living a creative life](https://theofficeonline.com/2023/06/05/scorsese-on-kurosawa-and-aging/) which quotes Scorcese quoting Kurosawa.
 
 If he could, I think he would have chosen to struggle for decades more to make more films. But that's the important part - he would have _chosen_. He would have opted for the struggle. If someone just dropped 225 pounds onto my back right now and asked me to stand up, I would be horrified and traumatized. But I regularly pay money to someone to do exactly that. The option, the consent, the freedom to engage and disengage, this is what makes a nightmare into an adventure.
 

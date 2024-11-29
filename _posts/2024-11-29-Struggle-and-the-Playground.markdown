@@ -63,3 +63,18 @@ This is how a lot of people live though. They avoid grief, they turn it into a p
 The struggler finally finds allies again. And once he does, he is able to heal. He is plugged into a smaller collective nervous system than the whole human one, he heals there and slowly regains his ability to be wholly human again.
 
 This feels like my journey, and I think many other Berserk readers feel the exact same way.
+
+## Optional Struggle
+My parents are both approaching 75 and I truly wish they live to 100. I understand why people get obsessed with life extension around my age. It's hard to see your parents slow down and get sleepier. Sometimes, it seems their very frames seem to be toppling over with the weight of all they've carried in life. 
+
+But they both seem to have more fire and verve mentally than ever before. Perhaps mentally is the wrong word. Spiritually, perhaps. They're as committed to their ideals, their ways of being. Akira Kurosawa, upon receiving his Oscar said:
+> I’m only now beginning to see the possibility of what cinema could be, and it’s too late.
+
+He was 83 at the time. Instead of sending out a jaded and "cool" quote about how he feels that all of film has been little more than piss on the garbage fire of the world, Kurosawa admits that even at 83 he has only just begun to tap into the possibilities of the human imaginal realm.
+
+If he could, I think he would have chosen to struggle for decades more to make more films. But that's the important part - he would have _chosen_. He would have opted for the struggle. If someone just dropped 225 pounds onto my back right now and asked me to stand up, I would be horrified and traumatized. But I regularly pay money to someone to do exactly that. The option, the consent, the freedom to engage and disengage, this is what makes a nightmare into an adventure.
+
+## Legacy
+As I say all of this about consent, optionality, freedom, I will also admit I am a massive hypocrite. I want to bring children into this world and nurture them into healthy adults. I believe it is the most important thing I can do with my life. I don't think the struggle the next generation will inherit is one that they will have consented to, nor will they have the option or freedom to disengage from it.
+
+What we will leave to them is a legacy, a slightly different one from the one given to us by our parents. It is something they can in some ways choose to take on fully or reject partially but for the most part it is an unavoidable burden that comes from being born into this world. We make the best of that burden and in the spaces between struggle and sleep we build more for those who come after us. We thank those who came before us.

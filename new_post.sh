@@ -1,5 +1,5 @@
 #!/bin/bash
-TODAYS_DATE=$(date -Idate)
+TODAYS_DATE=$(date "+%Y-%m-%d %H:%M:%S %z")
 
 FILE_NAME=$TODAYS_DATE"-"$(echo $@ | sed -e 's/ /-/g')".markdown"
 echo $FILE_NAME
